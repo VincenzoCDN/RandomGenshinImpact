@@ -28,7 +28,7 @@ public class Main {
         boosWeek[2] = "Signora";
         boosWeek[3] = "Raiden";
         boosWeek[4] = "Pinocchio";
-        boosWeek[5] = "Drago Dendro";
+        boosWeek[5] = "Bula Bula";
 
         int showMeBoss = randomNum.nextInt(5);
         System.out.println("The random boss is: " + boosWeek[showMeBoss] + "\n");
