@@ -21,6 +21,7 @@ public class Main {
         impositionWeek[8] = "Just Husbandini";
         impositionWeek[9] = "Just Waifunine";
 
+
         String[] boosWeek = new String[6];
         boosWeek[0] = "Wolf";
         boosWeek[1] = "Tarty";
